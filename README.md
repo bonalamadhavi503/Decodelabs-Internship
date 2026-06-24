@@ -1,65 +1,31 @@
-# Decodelabs Internship Projects
+Decodelabs Internship Projects
+📌 Overview
 
-## 📌 Overview
-This repository contains Machine Learning projects completed during the DecodeLabs internship. It includes both supervised and unsupervised learning models applied to real-world inspired datasets.
+This repository contains Machine Learning projects completed during the internship.
 
----
+📁 Projects Included
+1. Fraud Detection
+Built classification model to detect fraudulent transactions
+Handled imbalanced dataset
+Models used: Logistic Regression, Random Forest
 
-## 📁 Projects Included
+2. Student Management System
+Data handling and student record management
+CRUD operations
+Data analysis and preprocessing
 
-### 1. Fraud Detection (Supervised Learning)
-- Built classification models to detect fraudulent transactions
-- Handled imbalanced dataset using oversampling technique
-- Models used:
-  - Logistic Regression
-  - Random Forest
+3. Data Cleaning & Feature Engineering
+Handled missing values and outliers
+Applied data preprocessing techniques
+Feature scaling and transformation
 
-### Key Steps:
-- Data preprocessing
-- Train-test split
-- Handling class imbalance
-- Model training and evaluation
+5. NLP & Sentiment Analysis
+Text classification (Positive / Negative reviews)
+NLP preprocessing (tokenization, stopwords, lemmatization)
+TF-IDF vectorization
+Naive Bayes classifier
+🧠 Tools Used
 
-### Evaluation Metrics:
-- Precision
-- Recall
-- ROC-AUC
+Python, Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
 
----
-
-### 2. Customer Segmentation (Unsupervised Learning)
-- Applied PCA for dimensionality reduction
-- Used K-Means clustering for grouping customers
-- Determined optimal clusters using:
-  - Elbow Method
-  - Silhouette Score
-
-### Key Steps:
-- Feature scaling
-- PCA transformation (2D visualization)
-- K-Means clustering
-- Cluster interpretation into business personas
-
----
-
-## 🛠️ Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-
----
-
-## 📊 Key Concepts Learned
-- Supervised Learning
-- Unsupervised Learning
-- PCA (Principal Component Analysis)
-- K-Means Clustering
-- Imbalanced Data Handling
-- Model Evaluation Metrics
-
----
-
-## 🚀 How to Run the Project
-1. Clone the repository:
+github link:https://github.com/bonalamadhavi503/Decodelabs-Internship
